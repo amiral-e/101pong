@@ -1,7 +1,7 @@
 # 101pong
 
 ## Description
-Maths 101pong Epitech Teck1
+Maths | 101pong Epitech Teck1
 
 Pong, an arcade game developped in 1972 by Ralph Baer (Atari), is the first ever successful video game. It
 was inspired by the very first video game, Tennis for Two, developped in 1958 by William Higinbotham on
